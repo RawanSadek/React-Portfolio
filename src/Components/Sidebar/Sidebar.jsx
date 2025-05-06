@@ -26,7 +26,7 @@ export default function Sidebar() {
                             <NavLink className="nav-link text-secondary" to="/about">about</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink className="nav-link text-seconndary" to="/skills">skills</NavLink>
+                            <NavLink className="nav-link text-secondary" to="/skills">skills</NavLink>
                         </li>
                         <li className="nav-item">
                             <NavLink className="nav-link text-secondary" to="/exp">experience</NavLink>
