@@ -14,7 +14,7 @@ function App() {
 
   const routes = createBrowserRouter([
     {
-      path: 'React-Portfolio/', 
+      path: '/React-Portfolio', 
       element: <MasterLayout/>, 
       errorElement: <NotFound/>,
       children: [
