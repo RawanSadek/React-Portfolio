@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link, NavLink } from 'react-router-dom'
-import about from '../assets/about-BgAkqdr2.jpg';
+import about from '../../assets/about-BgAkqdr2.jpg';
 
 export default function Sidebar() {
 
