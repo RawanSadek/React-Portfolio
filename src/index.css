@@ -12,6 +12,22 @@ h1,h2,h3,h4,h5,h6{
 /* -------------------------------------------------------------- */
 /* Sidebar */
 
+@media only screen and (min-width: 767.3px) {
+  .navbar{
+    margin: auto;
+    position: fixed;
+    z-index: 100;
+  }
+}
+
+@media only screen and (max-width: 767.3px) {
+  .sidebar-container{
+    top: 0;
+    position: fixed;
+    z-index: 100;
+  }
+}
+
 .portfolio-img{
   width: 150px;
   height: 150px;
@@ -371,6 +387,7 @@ h1,h2,h3,h4,h5,h6{
 
 .not-found{
   background-image: url("assets/error.jpg");
-  background-size: cover;
+  background-size: 50%;
   background-position: center;
+  background-repeat: no-repeat;
 }
