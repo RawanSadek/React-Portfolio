@@ -26,11 +26,12 @@ h1,h2,h3,h4,h5,h6{
     position: fixed;
     z-index: 100;
   }
-  
-  .content{
-    margin-top: 18%;
+
+  .content-container{
+    margin-top: 150px;
   }
 }
+
 
 .portfolio-img{
   width: 150px;
