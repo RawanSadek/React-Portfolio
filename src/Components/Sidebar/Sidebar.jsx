@@ -7,7 +7,7 @@ export default function Sidebar() {
     return (
         <>
             <nav className="navbar navbar-expand-lg navbar-light bg-light flex-column">
-                <button className="navbar-toggler mb-3 z-2" type="button" data-bs-toggle="collapse" data-bs-target="#sidebarMenu"
+                <button className="navbar-toggler mb-3" type="button" data-bs-toggle="collapse" data-bs-target="#sidebarMenu"
                     aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
