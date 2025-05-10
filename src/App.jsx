@@ -7,7 +7,7 @@ import Skills from './Components/Skills/Skills';
 import Work from './Components/Work/Work';
 import Experience from './Components/Experience/Experience';
 import MasterLayout from './Components/MasterLayout/MasterLayout';
-import NotFound from './Components/MasterLayout/MasterLayout';
+import NotFound from './Components/Notfound/NotFound';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 function App() {
