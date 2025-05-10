@@ -12,7 +12,7 @@ export default function MasterLayout() {
                     <div className="sidebar-container col-sm-12 col-md-3 col-lg-3 col-xl-2 py-4 px-4 bg-light">
                         <Sidebar />
                     </div>
-                    <div className="content-container col-sm-12 col-md-8 col-lg-9 col-xl-10">
+                    <div className="col-sm-12 col-md-9 col-lg-9 col-xl-10">
                         
                         <Outlet/> {/*refers to children*/}
                     </div>
