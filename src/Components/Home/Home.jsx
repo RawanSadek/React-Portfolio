@@ -9,7 +9,7 @@ export default function Home() {
             <div id="carouselExampleFade" className="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="3000">
                 <div className="carousel-inner">
                     <div className="carousel-item item1 active">
-                        <div className="slider-content text-black">
+                        <div className="content slider-content text-black">
                             <h2>Hi!</h2>
                             <h2>I'm Jackson</h2>
                             <p className='fs-5 fw-light'>100% html5 bootstrap templates Made <br /> By  <Link to="" className='active'>Colorlib.com</Link></p>
@@ -17,7 +17,7 @@ export default function Home() {
                         </div>
                     </div>
                     <div className="carousel-item item2">
-                        <div className="slider-content text-black">
+                        <div className="content slider-content text-black">
                             <h2>I am</h2>
                             <h2>a Designer</h2>
                             <p className='fs-5 fw-light'>100% html5 bootstrap templates Made <br /> By  <Link to="" className='active'>Colorlib.com</Link></p>
